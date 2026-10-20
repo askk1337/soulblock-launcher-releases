@@ -1,8 +1,8 @@
 {
-  "version": "1.3.41",
+  "version": "1.3.42",
   "platform": "linux",
   "arch": "x64",
-  "url": "https://github.com/askk1337/soulblock-launcher-releases/releases/download/linux-v1.3.41/SoulBlockLauncher-1.3.41-linux-x64.AppImage",
-  "sha256": "ab600c5ffc357e2fada6f64126d4eee8126fc33d79795fbfe19bb54b3261661f",
+  "url": "https://github.com/askk1337/soulblock-launcher-releases/releases/download/linux-v1.3.42/SoulBlockLauncher-1.3.42-linux-x64.AppImage",
+  "sha256": "77a2851791440c70892d1930718d15c85f47c04763c810e0d498aa8bbe9ea2b9",
   "releaseNotes": "Минорный апдейт"
 }
