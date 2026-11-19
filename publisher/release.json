@@ -1,19 +1,19 @@
 {
   "schema": 1,
-  "releaseId": 450262312,
-  "tag": "v1.3.76",
+  "releaseId": 451221702,
+  "tag": "v1.5.0",
   "source": "https://origin-api.soulblock.ru/publisher/dragonring-07/metadata/",
   "policy": {
     "freshnessKeyId": "a53f520f0eede020ed5b430ffa6870ca8d576e81f4717da0f89fe92fed213aa0",
     "root": "2.root.json",
     "schema": 1,
-    "targets": "9.targets.json",
-    "targetsSha256": "c19a871a754bad8aee20c9e9b35db1fe7fcc4a9a05a3623e5dc0e0b591b75b32",
-    "targetsVersion": 9
+    "targets": "12.targets.json",
+    "targetsSha256": "26c5833979201e26c2f50da5cdcb211d4df8f9ffd648223f927dbe37250637df",
+    "targetsVersion": 12
   },
   "pins": {
     "bootstrap": "615908cd728a367047f87f9ee67f225d37f94086ade4d1c4a4881dce994b309c",
     "root": "bcd64c014271b29f3c9dd2db5f561a22239bfb1adf32b09384c4de3989b704ed",
-    "targets": "c19a871a754bad8aee20c9e9b35db1fe7fcc4a9a05a3623e5dc0e0b591b75b32"
+    "targets": "26c5833979201e26c2f50da5cdcb211d4df8f9ffd648223f927dbe37250637df"
   }
 }
