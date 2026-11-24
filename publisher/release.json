@@ -7,13 +7,13 @@
     "freshnessKeyId": "a53f520f0eede020ed5b430ffa6870ca8d576e81f4717da0f89fe92fed213aa0",
     "root": "2.root.json",
     "schema": 1,
-    "targets": "13.targets.json",
-    "targetsSha256": "8efae1d25fa7cdc3d9ab34d96b8e95ab1ebaba39be20abeb19fc27c6fd948126",
-    "targetsVersion": 13
+    "targets": "14.targets.json",
+    "targetsSha256": "98b76fe9ebdeaa6b0bbf7435f5305b607f2cd71fa7e4c0d90507424edc9034ae",
+    "targetsVersion": 14
   },
   "pins": {
     "bootstrap": "615908cd728a367047f87f9ee67f225d37f94086ade4d1c4a4881dce994b309c",
     "root": "bcd64c014271b29f3c9dd2db5f561a22239bfb1adf32b09384c4de3989b704ed",
-    "targets": "8efae1d25fa7cdc3d9ab34d96b8e95ab1ebaba39be20abeb19fc27c6fd948126"
+    "targets": "98b76fe9ebdeaa6b0bbf7435f5305b607f2cd71fa7e4c0d90507424edc9034ae"
   }
 }
